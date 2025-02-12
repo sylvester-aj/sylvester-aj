@@ -1,12 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ajith Sylvester</h1>
 <h3 align="center">A passionate Power Electronics Engineer from Northeastern University</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207”> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith96sylvester&label=Profile%20views&color=0e75b6&style=flat" alt="ajith96sylvester" /> </p>
 
 - 🌱 I’m currently learning **Mobile Robotics, Robot Sensing and Navigation, Power Electronics, Control Systems**
 
 - 📫 How to reach me **ajith96sylvester@gmail.com**
+
+- 📫 How to reach me **sylvester.aj@northeastern.edu**
 
 - ⚡ Fun fact **I love to play soccer and am a Soccer coach.**
 
