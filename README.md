@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ajith Sylvester</h1>
 <h3 align="center">A passionate Power Electronics Engineer from Northeastern University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”>
-[My Google Drive Resources to my Arduino projects] (https://drive.google.com/drive/folders/1dNEy3FqysoOsEvtTA5rx-yDMa6TralP5?usp=drive_link)
- [My Google Drive Resources to my NXT LEGO projects as a LEGO projects Tutor] (https://drive.google.com/drive/folders/14JfpfPh_v5eBJCGDs3lN2TokZVCsQ2Pc?usp=sharing) 
+[My Google Drive Resources to my Arduino projects] (https://drive.google.com/drive/folders/1dNEy3FqysoOsEvtTA5rx-yDMa6TralP5?usp=sharing)
+[My Google Drive Resources to my NXT LEGO projects as a LEGO projects Tutor] (https://drive.google.com/drive/folders/14JfpfPh_v5eBJCGDs3lN2TokZVCsQ2Pc?usp=sharing) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith96sylvester&label=Profile%20views&color=0e75b6&style=flat" alt="ajith96sylvester" /> </p>
 
 - 🌱 I’m currently learning **Mobile Robotics, Robot Sensing and Navigation, Power Electronics, Control Systems**
